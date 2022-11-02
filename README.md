@@ -18,6 +18,7 @@
 - [66 : Plus One](https://leetcode.com/problems/plus-one/)
 - [69 : Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - [70 : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [125 : Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [151: Reverse Word in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [226 : Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [367 : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
